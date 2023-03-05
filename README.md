@@ -1,3 +1,5 @@
+Seems like Pusher (the company) intentionally removed support for custom websocket servers. The tip of this repo starts from the last version that made it possible to use your own servers.
+
 # Pusher Channels Javascript Client
 
 ![test badge](https://github.com/pusher/pusher-js/workflows/test/badge.svg)
